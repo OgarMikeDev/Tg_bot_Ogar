@@ -9,7 +9,8 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class CryptoBotApplication {
 
     public static void main(String[] args) {
-        //Ogar Mike
+        //Ogar Mike Victor
+        //Hello
         SpringApplication.run(CryptoBotApplication.class, args);
     }
 
